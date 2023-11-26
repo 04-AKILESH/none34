@@ -57,7 +57,7 @@ usr_inp=new DataInputStream(c.getInputStream());
 dout=new DataOutputStream(c.getOutputStream()); 
 } 
 catch(IOException e) {} 
-if(c!=null || usr_inp!=null{ 
+if(c!=null || usr_inp!=null){ 
 String unip; 
 while(true) 
 { 
