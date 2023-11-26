@@ -1,4 +1,5 @@
 //echo client.java 
+
 import java.io.*; 
 import java.net.*; 
 import java.util.*; 
@@ -34,7 +35,11 @@ System.exit(0);
 din.close(); usr_inp.close(); c.close(); 
 } 
 } 
+
+
 //echoserver.java 
+
+
 import java.io.*; 
 import java.net.*; 
 public class echoserver 
